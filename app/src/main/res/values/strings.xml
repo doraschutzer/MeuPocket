@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MeuPocket</string>
+    <string name="tag">MEU_POCKET</string>
+    <string name="nome">Nome</string>
+    <string name="site">Site</string>
+    <string name="favoritar">Favoritar</string>
+    <string name="salvar_site">Salvar</string>
+    <string name="erro_cadastro">Erro ao cadastrar.</string>
+    <string name="url">URL</string>
+    <string name="preferencias">preferencias</string>
+    <string name="key_nome">NOME</string>
+    <string name="key_site">SITE</string>
+    <string name="key_sites">SITES</string>
+    <string name="erro_busca">Erro ao recuperar lista de sites cadastrados.</string>
+</resources>
